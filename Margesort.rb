@@ -1,3 +1,4 @@
+# was macht def gan genau
 def marge_sort(array)
   if array.length <=1
     array
@@ -6,7 +7,9 @@ def marge_sort(array)
     left = marge_sort(array[0..mid-1])
     right = marge_sort(array[mid..array.length])
     merge(left,right)
+    # if ende
 end
+# def ende
 end
 def merge(left,right)
   if left.empty?
