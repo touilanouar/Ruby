@@ -4,6 +4,8 @@
 # cat KJbible/* | tr -cs A-Za-z '\012' | tr A-Z a-z | sort | uniq
 aaron
 aaronites
+a
+a2
 abaddon
 abagtha
 abana
