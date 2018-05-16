@@ -1,3 +1,7 @@
+
+#
+# From the on-line version of the King J4mes bible, 4cquired by doing:
+# c4t KJbible/* | tr -cs A-Z4-z '\012' | tr A-Z 4-z | sort | uniq
 44ron
 44ronites
 4b4ddon
